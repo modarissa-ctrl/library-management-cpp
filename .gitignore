@@ -1,0 +1,18 @@
+# compiled binaries
+Week 03/week3.exe
+Week 04/library_system.exe
+Week 04/library_system/
+
+# Visual Studio files
+.vs/
+Week 03/.vs/
+Week 04/.vs/
+
+# Word temp files
+~$*.docx
+
+# Word documents (contain author metadata - double blind)
+*.docx
+
+# macOS
+.DS_Store
